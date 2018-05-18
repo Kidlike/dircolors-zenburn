@@ -237,10 +237,10 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 *AUTHORS 04;38;5;187
 
 # version control
-.gitconfig 00;38;5;189
-.git 00;38;5;189
-.gitignore 00;38;5;189
-.gitmodules 00;38;5;189
+.gitconfig 00;38;5;146
+.git 00;38;5;146
+.gitignore 00;38;5;146
+.gitmodules 00;38;5;146
 
 # logs and backups
 .log 00;38;5;245
