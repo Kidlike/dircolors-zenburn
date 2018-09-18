@@ -91,7 +91,7 @@ LINK 48;5;234;38;5;223
 # normal (nonfilename) text:
 #NORMAL 00
 # orphaned symbolic link:
-ORPHAN 48;5;234;38;5;187
+ORPHAN 48;5;234;38;5;124
 # directory that is other-writable (o+w) and not sticky:
 OTHER_WRITABLE 48;5;234;38;5;180
 # file that is setuid (u+s):
